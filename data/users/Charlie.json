@@ -1,0 +1,13 @@
+{
+	"id": 3,
+	"name": "Charlie",
+	"age": 35,
+	"contact": "charlie@example.com",
+	"company": "Creative Inc",
+	"address": {
+		"street": "789 Creativity St",
+		"city": "Creative City",
+		"state": "TX",
+		"pin_code": "54321"
+	}
+}

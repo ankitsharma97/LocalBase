@@ -1,0 +1,13 @@
+{
+	"id": 1,
+	"name": "Alice",
+	"age": 30,
+	"contact": "alice@example.com",
+	"company": "TechCorp",
+	"address": {
+		"street": "123 Tech Lane",
+		"city": "Tech City",
+		"state": "CA",
+		"pin_code": "12345"
+	}
+}
